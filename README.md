@@ -35,7 +35,7 @@ let obj:[String:AnyObject] = [
         "bool":   true,
         "int":    42,
         "double": 3.141592653589793,
-        "string": "a α\t弾\n𪚲",
+        "string": "a string",
         "array":  [],
         "object": [:]
     ],
